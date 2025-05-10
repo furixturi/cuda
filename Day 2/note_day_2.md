@@ -131,3 +131,4 @@ C[i] = A[i] + B[i];
     i = blockIdx.x * blockDim.x + threadIdx.x;
     C[i] = A[i] + B[i];
   ```
+  ![blockIdx and threadIdx](media/blockIdx%20and%20threadIdx.png)
