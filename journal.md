@@ -28,5 +28,9 @@ $ brew install gcc
 ## Day 3 - 2025/05/10
 
 ### Watch ECE408 sum2024 recording
-- [Session 3 recording](https://mediaspace.illinois.edu/media/t/1_joyw26bq) 19min ~ 
-- - [Deck 2](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture2-CUDA-introduction-Sum24.pdf) P15~
+- [Session 3 recording](https://mediaspace.illinois.edu/media/t/1_joyw26bq) 19min ~ end
+- - [Deck 2](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture2-CUDA-introduction-Sum24.pdf) P15~end
+- [Session 4 recording](https://mediaspace.illinois.edu/media/t/1_z883mlnv) ~22:40
+
+### Write CUDA code
+[vector_add.cu](Day%203/code/vector_add.cu)
