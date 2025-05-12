@@ -29,8 +29,18 @@ $ brew install gcc
 
 ### Watch ECE408 sum2024 recording
 - [Session 3 recording](https://mediaspace.illinois.edu/media/t/1_joyw26bq) 19min ~ end
-- - [Deck 2](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture2-CUDA-introduction-Sum24.pdf) P15~end
+- [Deck 2](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture2-CUDA-introduction-Sum24.pdf) P15~end
 - [Session 4 recording](https://mediaspace.illinois.edu/media/t/1_z883mlnv) ~22:40
 
 ### Write CUDA code
 [vector_add.cu](Day%203/code/vector_add.cu)
+
+---
+## Day 4 - 2025/05/12
+
+### Review and write vector_add coding note
+[vector_add_coding_note](Day%203/code/vector_add_coding_note.md)
+
+### Watch ECE408 sum2024 recording
+- [Session 4 recording](https://mediaspace.illinois.edu/media/t/1_z883mlnv)
+- [Deck 3](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture3-CUDA%20parallelism-model-Sum24.pdf)

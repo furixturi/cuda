@@ -96,7 +96,9 @@ int vecAdd(float* A, float* B, float* C, int N)
 - [recording](https://mediaspace.illinois.edu/media/t/1_z883mlnv)
 - [deck 2](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture2-CUDA-introduction-Sum24.pdf) P27~
 
-### Finish deck 2
+### Finish deck 2 & deck 3 review part
+- [Deck 3](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture3-CUDA%20parallelism-model-Sum24.pdf)
+
 - More on CUDA Function Delarations
   - `__device__ float DeviceFunc()`
     - executed on: device
