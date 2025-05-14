@@ -39,8 +39,22 @@ $ brew install gcc
 ## Day 4 - 2025/05/12
 
 ### Review and write vector_add coding note
-[vector_add_coding_note](Day%203/code/vector_add_coding_note.md)
+[vector_add_coding_note](Day%203%20Day%204%20Day20%5/code/vector_add_coding_note.md)
 
 ### Watch ECE408 sum2024 recording
+- [Session 4 recording](https://mediaspace.illinois.edu/media/t/1_z883mlnv) ~23:00
+- [Deck 3](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture3-CUDA%20parallelism-model-Sum24.pdf) 
+
+---
+## Day 5 - 2025/05/13
+
+### Run and profile vector_add kernel
+[vector_add_coding_note](Day%203%20Day%204%20Day20%5/code/vector_add_coding_note.md)
+
+---
+## Day 6 - 2025/05/14
+
+### Watch ECE408 sum2024 recording
+
 - [Session 4 recording](https://mediaspace.illinois.edu/media/t/1_z883mlnv)
 - [Deck 3](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture3-CUDA%20parallelism-model-Sum24.pdf)
