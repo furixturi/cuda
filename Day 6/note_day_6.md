@@ -35,7 +35,7 @@ if (i < N) C[i] = A[i] + B[i]
 - greyscale
 - blur
 
-### CUDA Threads
+### CUDA Threads Blocks
 - All threads in a block execute the same kernel program (SPMD)
 - Programmer declares block size (num of threads per block)
   - block size: 1 to 1024 concurrent threads
