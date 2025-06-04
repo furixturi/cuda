@@ -1,4 +1,4 @@
-# Daily Journal
+no# Daily Journal
 
 ## Day 1 - 2025/05/08
 
@@ -60,7 +60,7 @@ $ brew install gcc
 - [Deck 3](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture3-CUDA%20parallelism-model-Sum24.pdf) ~P21
 
 ---
-## Day 7 - 2025/05/15
+## Day 7 - 2025/05/15, Day 8 - 2025/05/16
 
 ### Watch ECE408 sum2024
 - [Lecture 5](https://mediaspace.illinois.edu/media/t/1_hnt1dqed) 00:00~
