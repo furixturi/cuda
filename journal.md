@@ -65,3 +65,21 @@ $ brew install gcc
 ### Watch ECE408 sum2024
 - [Lecture 5](https://mediaspace.illinois.edu/media/t/1_hnt1dqed) 00:00~
 - [Deck 3](https://lumetta.web.engr.illinois.edu/408-Sum24/slide-copies/ece408-lecture3-CUDA%20parallelism-model-Sum24.pdf) P22~
+
+---
+## Day 9 - 2025/06/03
+
+### Read 樊哲勇《CUDA编程基础与实践》
+- Chap 1-4
+
+---
+## Day 10 - 2025/06/04
+
+### Read 樊哲勇《CUDA编程基础与实践》
+- Chap 5-6
+
+---
+
+
+
+
