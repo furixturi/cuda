@@ -73,7 +73,7 @@ $ brew install gcc
 - Chap 1-4
 
 ---
-## Day 10 - 2025/06/04
+## Day 10 - 2025/06/04, Day 11 - 2025/06/05
 
 ### Read 樊哲勇《CUDA编程基础与实践》
 - Chap 5-6
