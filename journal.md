@@ -1,4 +1,4 @@
-no# Daily Journal
+# Daily Journal
 
 ## Day 1 - 2025/05/08
 
